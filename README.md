@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naimur</h1>
-<h3 align="center">Problem Solving | Web Designer | Content Creator</h3>
+<h3 align="center">Problem Solving | Front-end Development  | Content Creator</h3>
 
 
 
