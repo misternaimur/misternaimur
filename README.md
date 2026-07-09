@@ -41,7 +41,7 @@ I'm a **Frontend & Full-Stack Web Developer** who enjoys turning ideas into mode
 
 **📍 Location:** Chattogram, Bangladesh
 **📧 Email:** misternaimur@gmail.com
-**📱 Phone:** [Your Contact Number]
+**📱 Phone:** +8801940599789
 **🌐 Portfolio:** [naimur-portflio.vercel.app](https://naimur-portflio.vercel.app/)
 
 </td>
