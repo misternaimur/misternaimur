@@ -109,20 +109,7 @@ https://nai-sell.vercel.app
 ---
 
 
-## 💼 Career Hub
 
-A job portal web application where users can browse jobs and apply online.
-
-**Technology**
-
-- React
-- Tailwind CSS
-- Firebase
-
-🔗 Live Demo:
-Coming Soon
-
----
 
 # 📈 GitHub Statistics
 
