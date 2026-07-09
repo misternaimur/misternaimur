@@ -45,7 +45,7 @@ Location: Chattogram, Bangladesh
 
 Email: misternaimur@gmail.com
 
-Portfolio: https://nai-sell.vercel.app
+Portfolio: (https://naimur-portflio.vercel.app/)
 ```
 
 I'm a passionate **Frontend & Full-Stack Web Developer** who enjoys transforming ideas into modern, responsive, and scalable web applications. I love creating clean user interfaces, writing maintainable code, and continuously learning new technologies. My goal is to build digital products that provide excellent user experiences while solving real-world problems.
