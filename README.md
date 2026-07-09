@@ -63,18 +63,6 @@ I'm a passionate **Frontend & Full-Stack Web Developer** who enjoys transforming
 
 # 💻 Tech Stack
 
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap"/>
-</p>
-
-## Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
-</p>
-
 <div align="center">
 
 # 🩺 DocAppoint
