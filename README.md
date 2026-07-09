@@ -141,7 +141,7 @@ Full-stack Doctor Appointment Booking System — browse doctors, book securely w
 </tr>
 </table>
 
-> 📎 Pin these three from **GitHub → your profile → Customize your pins**. Each repo has its own detailed README (overview, features, dependencies, local setup) already prepared.
+
 
 <br/>
 
