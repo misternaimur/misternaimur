@@ -108,20 +108,6 @@ https://nai-sell.vercel.app
 
 ---
 
-## 🌍 Tourism Booking Website
-
-A responsive tourism booking website where users can explore destinations, book packages, and manage their bookings.
-
-**Technology**
-
-- React
-- Firebase
-- Tailwind CSS
-
-🔗 Live Demo:
-Coming Soon
-
----
 
 ## 💼 Career Hub
 
