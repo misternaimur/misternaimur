@@ -1,194 +1,218 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:0e75b6&height=260&section=header&text=NAIMUR%20RAHMAN&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Frontend%20%26%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=20&descColor=e0e0e0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:0e75b6&height=260&section=header&text=MD%20NAIMUR%20RAHMAN&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer%20|%20React%20Developer%20|%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=18&descColor=e0e0e0" width="100%"/>
 
-<br/>
+<br>
 
-<a href="https://nai-sell.vercel.app/"><img src="https://readme-typing-svg.demolab.com/?lines=Building+fast+%26+scalable+web+apps+%F0%9F%9A%80;React.js+%7C+Next.js+%7C+Tailwind+CSS;Turning+ideas+into+real+products+%F0%9F%92%A1;Open+to+freelance+%26+collaboration+%F0%9F%A4%9D&font=Fira+Code&center=true&width=600&height=45&color=0E75B6&vCenter=true&size=22&pause=1500" alt="Typing SVG" /></a>
+<a href="https://nai-sell.vercel.app">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=700&lines=Problem+Solver+%F0%9F%92%A1;Frontend+Developer+%7C+React+Developer;Building+Fast+%26+Scalable+Web+Applications+%F0%9F%9A%80;Always+Learning+New+Technologies;Open+to+Freelance+%26+Collaboration+%F0%9F%A4%9D"/>
 
-<br/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=misternaimur&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="profile views"/>
-<a href="https://linkedin.com/in/misternaimur"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="mailto:misternaimur@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=misternaimur&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<a href="mailto:misternaimur@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/misternaimur">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://nai-sell.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
+---
 
-## 🧭 About Me
+# 👨‍💻 About Me
 
 ```yaml
-name: "Md Naimur Rahman"
-role: "Frontend & Full-Stack Web Developer"
-location: "[Your City, Country]"
-focus: ["React.js", "Next.js", "Tailwind CSS", "E-commerce Solutions"]
-mission: "Building responsive, user-friendly web apps that help businesses grow online 🚀"
-fun_fact: "I don't just build websites — I build high-performing digital experiences."
+Name: Md Naimur Rahman
+
+Role: Frontend Developer
+
+Specialization:
+  - React.js
+  - Next.js
+  - Full-Stack Web Development
+
+Location: Chattogram, Bangladesh
+
+Email: misternaimur@gmail.com
+
+Portfolio: https://nai-sell.vercel.app
 ```
 
-<table>
-<tr>
-<td width="60%" valign="top">
+I'm a passionate **Frontend & Full-Stack Web Developer** who enjoys transforming ideas into modern, responsive, and scalable web applications. I love creating clean user interfaces, writing maintainable code, and continuously learning new technologies. My goal is to build digital products that provide excellent user experiences while solving real-world problems.
 
-I'm a **Frontend & Full-Stack Web Developer** who loves turning ideas into clean, scalable, real-world products. My core strength is building modern UIs with **React** and **Next.js**, backed by solid full-stack fundamentals. I care about performance, clean code, and genuinely useful design — not just things that look good, but things that work well for the people using them.
+---
 
-</td>
-<td width="40%" valign="top">
+# 🚀 Current Activities
 
-**📍 Location:** [Your City, Country]
-**📧 Email:** misternaimur@gmail.com
-**📱 Phone:** [Your Contact Number]
-**🌐 Portfolio:** [nai-sell.vercel.app](https://nai-sell.vercel.app/)
+- 🌱 Learning **Next.js**, **TypeScript**, and modern backend development.
+- 💻 Building a **Tourism Booking Platform**.
+- 🛒 Working on **Nai-Sell Hub**, a complete e-commerce platform.
+- 🤝 Open to freelance projects and open-source contributions.
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+# 💻 Tech Stack
 
-## ⚡ Currently
+## Frontend
 
-<table>
-<tr>
-<td>🔭</td><td><b>Building</b> — <a href="https://nai-sell.vercel.app/">Nai-Sell Hub</a>, a full e-commerce platform</td>
-</tr>
-<tr>
-<td>🌱</td><td><b>Learning</b> — AI-driven Full Stack Web Development @ Programming Hero</td>
-</tr>
-<tr>
-<td>🛫</td><td><b>Side project</b> — a full-featured tourism booking website</td>
-</tr>
-<tr>
-<td>🤝</td><td><b>Open to</b> — freelance work, collaborations, and open-source contributions</td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap"/>
+</p>
 
-<br/>
+## Backend & Database
 
-## 🧰 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
+</p>
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,php"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🛒 Nai-Sell Hub
+
+A modern e-commerce platform with authentication, product management, shopping cart, and secure checkout.
+
+**Technology**
+
+- Next.js
+- React
+- Tailwind CSS
+- MongoDB
+- Express.js
+
+🔗 Live Demo:
+https://nai-sell.vercel.app
+
+---
+
+## 🌍 Tourism Booking Website
+
+A responsive tourism booking website where users can explore destinations, book packages, and manage their bookings.
+
+**Technology**
+
+- React
+- Firebase
+- Tailwind CSS
+
+🔗 Live Demo:
+Coming Soon
+
+---
+
+## 💼 Career Hub
+
+A job portal web application where users can browse jobs and apply online.
+
+**Technology**
+
+- React
+- Tailwind CSS
+- Firebase
+
+🔗 Live Demo:
+Coming Soon
+
+---
+
+# 📈 GitHub Statistics
 
 <div align="center">
 
-**Frontend**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=misternaimur&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misternaimur&layout=compact&theme=tokyonight&hide_border=true"/>
 
-**Backend & Database**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
-**Languages**
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-**Tools & Design**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=misternaimur&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br/>
+---
 
-## 📌 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🛒 Nai-Sell Hub
-A full-featured e-commerce platform with product listings, cart, and checkout flow.
-
-**Tech:** Next.js · React · Tailwind CSS
-
-🔗 [Live Demo](https://nai-sell.vercel.app/)
-
-</td>
-<td width="33%" valign="top">
-
-### 🧳 [Project 2 Name]
-[Short one-line description of what it does and who it's for]
-
-**Tech:** [Tech stack]
-
-🔗 [Live Demo](#)
-
-</td>
-<td width="33%" valign="top">
-
-### 📦 [Project 3 Name]
-[Short one-line description of what it does and who it's for]
-
-**Tech:** [Tech stack]
-
-🔗 [Live Demo](#)
-
-</td>
-</tr>
-</table>
-
-> 📎 Pin these from **GitHub → your profile → Customize your pins**. Each repo should have its own README with overview, screenshot, features, dependencies, local setup steps, and live link.
-
-<br/>
-
-## 🌐 Connect With Me
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<a href="https://linkedin.com/in/misternaimur"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/misternaimur"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://fb.com/misternaimur"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://dev.to/misternaimur"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/misternaimur"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-<a href="https://www.behance.net/misternaimur"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-<a href="https://medium.com/@misternaimur"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://www.youtube.com/c/misternaimur"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/misternaimur"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.leetcode.com/misternaimur"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<img src="https://github-profile-trophy.vercel.app/?username=misternaimur&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </div>
 
-<br/>
+---
 
-## 📊 GitHub Stats
+# 📚 Currently Learning
+
+- Next.js 15
+- TypeScript
+- Express.js
+- MongoDB Aggregation
+- REST APIs
+- Clean Architecture
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:misternaimur@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/misternaimur">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/misternaimur">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://twitter.com/misternaimur">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://www.hackerrank.com/misternaimur">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/misternaimur">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"Building meaningful digital experiences with clean code, modern technologies, and continuous learning."**
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=misternaimur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=0e75b6&icon_color=0e75b6" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misternaimur&layout=compact&theme=tokyonight&hide_border=true&title_color=0e75b6" width="38%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=misternaimur&theme=tokyonight&hide_border=true&ring=0e75b6&fire=0e75b6" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=misternaimur&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💬 *"I don't just build websites — I create high-performing digital solutions that grow your business."*
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0e75b6,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:0e75b6&height=120&section=footer"/>
 
 </div>
