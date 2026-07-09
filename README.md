@@ -75,117 +75,117 @@ I'm a passionate **Frontend & Full-Stack Web Developer** who enjoys transforming
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
 </p>
 
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,php"/>
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
-</p>
-
----
-
-# 📌 Featured Projects
-
-## 🛒 Nai-Sell Hub
-
-A modern e-commerce platform with authentication, product management, shopping cart, and secure checkout.
-
-**Technology**
-
-- Next.js
-- React
-- Tailwind CSS
-- MongoDB
-- Express.js
-
-🔗 Live Demo:
-https://nai-sell.vercel.app
-
----
-
-
-
-
-# 📈 GitHub Statistics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=misternaimur&show_icons=true&theme=tokyonight&hide_border=true"/>
+# 🩺 DocAppoint
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misternaimur&layout=compact&theme=tokyonight&hide_border=true"/>
+**A full-stack Doctor Appointment Booking System**
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=misternaimur&theme=tokyonight&hide_border=true"/>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://doc-appoint-eight.vercel.app/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+## 📌 Project Overview
 
-<div align="center">
+**DocAppoint** is a full-stack Doctor Appointment Booking System that allows users to browse doctors, view detailed profiles, and book appointments securely with JWT authentication. It includes protected routes, a user dashboard, CRUD booking management, search functionality, and a responsive modern UI.
 
-<img src="https://github-profile-trophy.vercel.app/?username=misternaimur&theme=algolia&no-frame=true&row=1&column=7"/>
+🔗 **Live Site:** [doc-appoint-eight.vercel.app](https://doc-appoint-eight.vercel.app/)
+💻 **GitHub Repository:** [github.com/misternaimur/DocAppoint](https://github.com/misternaimur/DocAppoint) *(update if your repo name differs)*
 
-</div>
-
----
-
-# 📚 Currently Learning
-
-- Next.js 15
-- TypeScript
-- Express.js
-- MongoDB Aggregation
-- REST APIs
-- Clean Architecture
+<!-- 📸 Add a clean screenshot of your homepage here -->
+<!-- ![DocAppoint Screenshot](./screenshot.png) -->
 
 ---
 
-# 🌐 Connect With Me
+## ✨ Key Features
 
-<p align="left">
-
-<a href="mailto:misternaimur@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/misternaimur">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/misternaimur">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://twitter.com/misternaimur">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-<a href="https://www.hackerrank.com/misternaimur">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/misternaimur">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
+- 🔍 Browse & Search Doctors
+- 📄 Detailed Doctor Profile Pages
+- 📅 Secure Appointment Booking
+- 🔐 JWT-based Authentication & Protected Routes
+- 📊 User Dashboard with CRUD Booking Management
+- 📱 Fully Responsive Modern UI
+- ⚡ Optimized Performance with Next.js
 
 ---
 
-# 💬 Quote
+## 🧰 Technologies Used
 
-> **"Building meaningful digital experiences with clean code, modern technologies, and continuous learning."**
+| Category | Stack |
+|---|---|
+| Framework | Next.js (React) |
+| Styling | Tailwind CSS |
+| Auth | JWT |
+| Database | MongoDB |
+| Language | JavaScript, TypeScript |
+
+## 📦 Key Dependencies
+
+```
+next
+react
+react-dom
+mongodb
+jsonwebtoken
+tailwindcss
+axios
+react-hot-toast
+```
 
 ---
 
-<div align="center">
+## ⚙️ Installation & Local Setup
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:0e75b6&height=120&section=footer"/>
+```bash
+# 1. Clone the repository
+git clone https://github.com/misternaimur/DocAppoint.git
 
-</div>
+# 2. Move into the project directory
+cd DocAppoint
+
+# 3. Install dependencies
+npm install
+
+# 4. Set up environment variables (see below)
+
+# 5. Run the development server
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+
+### 🔐 Environment Variables
+
+Create a `.env.local` file in the root directory:
+
+```
+MONGODB_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret_key
+NEXT_PUBLIC_API_URL=your_api_url
+```
+
+---
+
+## 🚀 Deployment
+
+Hosted on **Vercel** with continuous deployment from the main branch.
+
+---
+
+## 🔗 Links
+
+- **Live Site:** [doc-appoint-eight.vercel.app](https://doc-appoint-eight.vercel.app/)
+- **GitHub Repository:** [github.com/misternaimur/DocAppoint](https://github.com/misternaimur/DocAppoint)
+
+---
+
+## 📬 Contact
+
+**Md Naimur Rahman**
+📧 misternaimur@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/misternaimur) · [Portfolio](https://naimur-portflio.vercel.app/)
