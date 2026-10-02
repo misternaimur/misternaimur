@@ -89,8 +89,20 @@
   </nobr>
 </div>
 
-<br><br>
 
+<br><br>
+<!-- Breaking News / Announcement Ticker -->
 <div align="center">
-  <img src="assets/footer.svg?v=2" width="100%" alt="Footer" />
+  <table width="100%" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px;">
+    <tr>
+      <td align="left" style="width: 20%; color: #f59e0b; font-weight: bold; font-size: 14px; padding-left: 10px;">
+        🔴 BREAKING:
+      </td>
+      <td align="left" style="width: 100%;">
+        <marquee behavior="scroll" direction="left" scrollamount="5" style="color: #c9d1d9; font-size: 14px; font-family: monospace;">
+          ⚡ <b>Md. Naimur Rahman</b> — Full Stack Developer & Web Development Instructor | Building scalable & production-ready apps with Next.js, TypeScript & Node.js 🚀 Let's build something amazing together! 💻
+        </marquee>
+      </td>
+    </tr>
+  </table>
 </div>
