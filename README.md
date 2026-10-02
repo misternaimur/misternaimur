@@ -5,14 +5,18 @@
 <div align="center">
   <nobr>
     <a href="https://yashthorat7.github.io/resume-template"><img src="assets/contacts/contact1.svg?v=3" width="5.92%" /></a><!--
+--><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="17.9%" />
+<!-- -->
+<a href="mailto:misternaimur@gmail.com"><img src="assets/contacts/contact2.svg?v=3" width="4.86%" /></a>
+<!--
+-->
+<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="17.9%" /><!--
+--><a href="https://linkedin.com/in/misternaimur"><img src="assets/contacts/contact3.svg?v=3" width="5.92%" /></a>
+<!--
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="17.9%" /><!--
---><a href="mailto:yshthrt@gmail.com"><img src="assets/contacts/contact2.svg?v=3" width="4.86%" /></a><!--
+--><a href="https://leetcode.com/u/misternaimur"><img src="assets/contacts/contact4.svg" width="5.68%" /></a><!--
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="17.9%" /><!--
---><a href="https://linkedin.com/in/yashthorat7"><img src="assets/contacts/contact3.svg?v=3" width="5.92%" /></a><!--
---><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="17.9%" /><!--
---><a href="https://leetcode.com/u/yashthorat"><img src="assets/contacts/contact4.svg" width="5.68%" /></a><!--
---><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="17.9%" /><!--
---><a href="https://x.com/YashThoratHere"><img src="assets/contacts/contact5.svg" width="5.92%" /></a>
+--><a href="https://x.com/misternaimur"><img src="assets/contacts/contact5.svg" width="5.92%" /></a>
   </nobr>
 </div>
 
@@ -20,41 +24,37 @@
 
 <div align="center">
   <nobr>
-    <img src="assets/icons/1-lucide_icons.svg" title="Lucide Icons" width="4.885%" /><!--
+    <img src="assets/icons/1-lucide_icons.svg" title="Lucide Icons" width="4.885%" />
+    <!--
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
 --><img src="assets/icons/2-nodejs.svg" title="Node.js" width="4.885%" /><!--
---><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
---><img src="assets/icons/3-supabase.svg" title="Supabase" width="4.885%" /><!--
---><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
---><img src="assets/icons/4-neon.svg" title="Neon DB" width="4.885%" /><!--
---><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
---><img src="assets/icons/5-docker.svg" title="Docker" width="4.885%" /><!--
+
+
+
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
 --><img src="assets/icons/6-typescript.svg" title="TypeScript" width="4.885%" /><!--
+
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
 --><img src="assets/icons/7-javascript.svg" title="JavaScript" width="4.885%" /><!--
+
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
 --><img src="assets/icons/8-reactjs.svg" title="React JS" width="4.885%" /><!--
+
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
 --><img src="assets/icons/9-nextjs.svg" title="Next.js" width="4.885%" /><!--
+
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
 --><img src="assets/icons/10-tailwind_css.svg" title="Tailwind CSS" width="4.885%" /><!--
+
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
 --><img src="assets/icons/11-three_js.svg" title="Three.js" width="4.885%" /><!--
+
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
 --><img src="assets/icons/12-redux.svg" title="Redux" width="4.885%" /><!--
+
+
 --><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
---><img src="assets/icons/13-python.svg" title="Python" width="4.885%" /><!--
---><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
---><img src="assets/icons/14-jupyter.svg" title="Jupyter Notebook" width="4.885%" /><!--
---><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
---><img src="assets/icons/15-numpy.svg" title="NumPy" width="4.885%" /><!--
---><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
---><img src="assets/icons/16-pytorch.svg" title="PyTorch" width="4.885%" /><!--
---><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
---><img src="assets/icons/17-flutter.svg" title="Flutter" width="4.885%" /><!--
---><img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>" width="0.71%" /><!--
---><img src="assets/icons/18-csharp.svg" title="C#" width="4.885%" />
+--><img src="assets/icons/18-csharp.svg" title="C++" width="4.885%" />
   </nobr>
 </div>
 
